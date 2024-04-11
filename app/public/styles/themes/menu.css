@@ -1,0 +1,46 @@
+/******************************************************************************
+TIP: Menu theme displays your links with images from settings.json
+
+Edit / copy or create your own CSS file in public/styles/themes
+Select your chosen CSS by adding the theme name (e.g. menu) in settings.json
+******************************************************************************/
+
+:root {
+  --color-bg: var(--glitch-blue-light);
+  --color-text-main: var(--glitch-blue-light);
+}
+body {
+  background-image: url("https://cdn.discordapp.com/attachments/1202841610145112094/1227987969177292901/IMG_0067.png?ex=662a67ea&is=6617f2ea&hm=ca0c4e1623f17f545ea1f0cd3030d34d9ca2d87318f816960606453d6c8353ee&");
+}
+
+ul.link-list li a {
+  display: flex;
+}
+ul.link-list li a:link,
+ul.link-list li a:visited {
+  background-color: var(--color-primary);
+  border-radius: 0.5rem;
+  padding: 0.5rem;
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  min-height: 4.5rem;
+}
+ul.link-list li a span {
+  text-align: justify;
+  line-height: 1.2em;
+  flex-grow: 1;
+  text-align: center;
+}
+ul.link-list li a:hover, ul.link-list li a:focus {
+  background-color: var(--color-bg);
+  color: white;
+}
+ul.link-list li a img {
+  border-radius: 0.2rem;
+  width: 3rem;
+  overflow: visible;
+}
+.social-profile-icon path:hover, .social-profile-icon path:focus {
+  fill: var(--color-bg);
+}

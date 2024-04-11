@@ -1,0 +1,53 @@
+{
+  "metaTitle": "Tulpical",
+  "metaDescription": "Aimassist and Macro",
+  "name": "",
+  "theme": "glitch",
+  "avatarImage": "https://cdn.discordapp.com/attachments/1203492500187127818/1227699049545728011/Uusi_projekti_4.png?ex=66295ad6&is=6616e5d6&hm=7a3f2f66481c7495dce4a2062bc657c900db485c4d0f97f3a80047ec6a84135a&",
+  "links": [
+    {
+      "url": "https://drive.google.com/uc?export=download&id=1LeqN2PyV02Gt0t6day_td4uEMvZX8SYn",
+      "text": "Download here.",
+      "img": "https://cdn.glitch.me/efc5414a-882b-4708-af81-8461abbc1a82%2Fglitchmidblues.png?v=1634289872484",
+      "altText": "Glitch blue generative art"
+    },
+    {
+      "url": "https://discord.gg/NXEXgVWcpT",
+      "text": "Join our discord server for the latest information about this project.",
+      "img": ""
+    }
+  ],
+  "social": {
+    "glitch": "",
+    "arena": "",
+    "bandcamp": "",
+    "cohost": "",
+    "dev": "",
+    "facebook": "",
+    "github": "",
+    "gitlab": "",
+    "hashnode": "",
+    "instagram": "",
+    "keybase": "",
+    "kofi": "",
+    "letterboxd": "",
+    "linkedin": "",
+    "mastodon": "",
+    "medium": "",
+    "onlyfans": "",
+    "patreon": "",
+    "pinboard": "",
+    "pinterest": "",
+    "podcast": "",
+    "soundcloud": "",
+    "spotify": "",
+    "stackoverflow": "",
+    "substack": "",
+    "twitter": "",
+    "twitch": "",
+    "tiktok": "",
+    "tumblr": "",
+    "youtube": "https://www.youtube.com/@heytull",
+    "email": ""
+  }
+}
